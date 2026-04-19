@@ -60,23 +60,44 @@ Personal accounting app for managing expenses, debts, and recurring transactions
   <img src="https://play-lh.googleusercontent.com/a6Wb-C3RDGGE_j3P0JWQwvckbBZWEc1c00nK-OKWQlKx1czwjztEDZ_DvWXmn41DU6qreok5ZL69sHOUBFXNBQ" alt="Muamalat Screenshot 4" width="180" />
 </p>
 
-### 2. Eurud
+### 2. <img src="https://play-lh.googleusercontent.com/RLiPWUBHq-Yh7sEAOAHau4jzjoDNYO4bdec4MHmCfz0z7dYriEp4ac-pmcQua1inoM9ZIgBYRTt1VjxlZVqd_w" alt="Eurud App Icon" width="28" align="center" /> Eurud
 Offers comparison app that helps users compare store prices, build shopping lists, and browse product offers through connected APIs and authentication flows.  
 **Tech:** `Flutter`, `REST API`, `Android`, `iOS`  
 **GitHub:** [GitHub Profile](https://github.com/elBAKRIN)  
 **App Link:** [Google Play](https://play.google.com/store/apps/details?id=com.offer.eurud&hl=ar)
 
-### 3. Hajzak
+<p align="left">
+  <img src="https://play-lh.googleusercontent.com/NcGxPlaTH0gTOkwME1ymQM3vfsbmK7HO3giMgnMAkvlMmBu1L6dz5ffsy3gz_m794w" alt="Eurud Screenshot 1" width="180" />
+  <img src="https://play-lh.googleusercontent.com/gHV4j3xBxAUVIldaOuRhNVGO0S7IKZkhhKNYmM5F6QNhXhmYNJy8m7UftOnOBa58symo" alt="Eurud Screenshot 2" width="180" />
+  <img src="https://play-lh.googleusercontent.com/N9qD-NDT5EcG5IV8SJblOqLxzatfOobueQyLylzdqJAbuhOULAAS5h_xLxUMhA1BwzI" alt="Eurud Screenshot 3" width="180" />
+  <img src="https://play-lh.googleusercontent.com/nWyC2Vxh0d9R0OFwmzK1KPgaBiOm42xr6JPluDCh6d4ClA5oFhG8daGQF2aWND0OGg" alt="Eurud Screenshot 4" width="180" />
+</p>
+
+### 3. <img src="https://play-lh.googleusercontent.com/qOobfaBeCnpkW9aTrtANvCfw6NpAdv4vQJ3eaxA47ojPgUdSbcCs58X28nomKSj9fveE7SSxcPLMge3cqyzQRXU" alt="Hajzak App Icon" width="28" align="center" /> Hajzak
 Booking app for trips, rest houses, and events, focused on interface design and Flutter UI implementation.  
 **Tech:** `Flutter`, `Android`  
 **GitHub:** [GitHub Profile](https://github.com/elBAKRIN)  
 **App Link:** [Google Play](https://play.google.com/store/apps/details?id=com.supersend.hajzak)
 
-### 4. The Holy Quran Recitation & Memorization
+<p align="left">
+  <img src="https://play-lh.googleusercontent.com/mRMXQXfemczS-HhPIoGabQsaXPgeZQTfyyd_pmLnjKCox9q5rsYu7EqUsUU3nwbiS4jpRyTwZvUZO35q4YVLHNY" alt="Hajzak Screenshot 1" width="180" />
+  <img src="https://play-lh.googleusercontent.com/Z3yS0N2pJhRwV_GoyqMfMLqwuEtmNpCUALAdFqZB_sRsqyBkpyB9EQNpQyTt0KkS2wU3_zwhzyocjapvQ3FHuA" alt="Hajzak Screenshot 2" width="180" />
+  <img src="https://play-lh.googleusercontent.com/rpGsaGouW6z1vRlvBp2ngY0mYRjlW7gSO3-0yZDPIMbrH7r6BcMdQ8lV_aqSdCqFJcDpm9FaMgeceumzWFUDmmc" alt="Hajzak Screenshot 3" width="180" />
+  <img src="https://play-lh.googleusercontent.com/ZThE1gjoMpNINdlB_ZtQK6JyB_al4rkDMkqdUqW57NkDnHBiKQ5MAQqjFPOBPm1PARumlF-x6h2ikmdapI_CtQ" alt="Hajzak Screenshot 4" width="180" />
+</p>
+
+### 4. <img src="https://play-lh.googleusercontent.com/3-oMI2EVsLFoN_aAK5EUealGUMtg9qDZlrk2gwU1jWuXXaVN26D7M0JmP9Nh6l7tPA" alt="Quran App Icon" width="28" align="center" /> The Holy Quran Recitation & Memorization
 Quran app for self-recitation practice, memorization support, and tafsir display, with API integration for audio and content delivery.  
 **Tech:** `Flutter`, `REST API`, `Android`  
 **GitHub:** [GitHub Profile](https://github.com/elBAKRIN)  
 **App Link:** [Google Play](https://play.google.com/store/apps/details?id=com.bakrin.recite_the_holy_quran)
+
+<p align="left">
+  <img src="https://play-lh.googleusercontent.com/5hRd1WOjaliffeRCOWViTmwRGjXy0rAYQcsLrIia5Vl-a1Q2uuaAEYEp-4c08-05NfQk" alt="Quran Screenshot 1" width="180" />
+  <img src="https://play-lh.googleusercontent.com/sZSC28DkIDbPpWIgICFDTtD7cNlNLsFFh5U3jVjcWCZAyI6H5F0hfwZsTyxL1oJRL9Fn" alt="Quran Screenshot 2" width="180" />
+  <img src="https://play-lh.googleusercontent.com/Jzy1BpmMI99D7wQvadbRnAy8dXBoPe33pjndcycVUNGN6alGx3Tqs3rdvVTQgn6zFuk" alt="Quran Screenshot 3" width="180" />
+  <img src="https://play-lh.googleusercontent.com/14roRdEFjDlT3JysazE1T9eNbOxblPxRFdtssMkCP_mw_Jghsz8KcffbXa2dnXVOTzc" alt="Quran Screenshot 4" width="180" />
+</p>
 
 ---
 
