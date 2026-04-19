@@ -50,7 +50,6 @@ I started as a web developer in 2016, working with `PHP`, `MySQL`, `Bootstrap`, 
 ### 1. <img src="https://play-lh.googleusercontent.com/6yZuIfYv3ocgjuEJb2bhZxaed3CIOoGMmLADFs6I3FgUW3YdXZYKbwOgZjnM7Nv3IlLCT3VghHqPFKTuJOisr9Y" alt="Muamalat App Icon" width="28" align="center" /> Muamalat
 Personal accounting app for managing expenses, debts, and recurring transactions with support for multiple wallets, currencies, and backup workflows.  
 **Tech:** `Flutter`, `sqflite`, `Android`  
-**GitHub:** [GitHub Profile](https://github.com/elBAKRIN)  
 **App Link:** [Google Play](https://play.google.com/store/apps/details?id=com.bakrin.muamalat.expenses.income.debts.muamalat)
 
 <p align="left">
@@ -65,6 +64,7 @@ Offers comparison app that helps users compare store prices, build shopping list
 **Tech:** `Flutter`, `REST API`, `Android`, `iOS`  
 **GitHub:** [GitHub Profile](https://github.com/elBAKRIN)  
 **App Link:** [Google Play](https://play.google.com/store/apps/details?id=com.offer.eurud&hl=ar)
+[App Store](https://apps.apple.com/sa/app/%D8%B9%D8%B1%D9%88%D8%B6-%D9%85%D9%82%D8%A7%D8%B1%D9%86%D8%A9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D9%88%D8%AA%D8%AE%D9%81%D9%8A%D8%B6%D8%A7%D8%AA/id6759877928)
 
 <p align="left">
   <img src="https://play-lh.googleusercontent.com/NcGxPlaTH0gTOkwME1ymQM3vfsbmK7HO3giMgnMAkvlMmBu1L6dz5ffsy3gz_m794w" alt="Eurud Screenshot 1" width="180" />
@@ -75,8 +75,7 @@ Offers comparison app that helps users compare store prices, build shopping list
 
 ### 3. <img src="https://play-lh.googleusercontent.com/qOobfaBeCnpkW9aTrtANvCfw6NpAdv4vQJ3eaxA47ojPgUdSbcCs58X28nomKSj9fveE7SSxcPLMge3cqyzQRXU" alt="Hajzak App Icon" width="28" align="center" /> Hajzak
 Booking app for trips, rest houses, and events, focused on interface design and Flutter UI implementation.  
-**Tech:** `Flutter`, `Android`  
-**GitHub:** [GitHub Profile](https://github.com/elBAKRIN)  
+**Tech:** `Flutter`, `Android`, `IOS`  
 **App Link:** [Google Play](https://play.google.com/store/apps/details?id=com.supersend.hajzak)
 
 <p align="left">
@@ -89,7 +88,6 @@ Booking app for trips, rest houses, and events, focused on interface design and 
 ### 4. <img src="https://play-lh.googleusercontent.com/3-oMI2EVsLFoN_aAK5EUealGUMtg9qDZlrk2gwU1jWuXXaVN26D7M0JmP9Nh6l7tPA" alt="Quran App Icon" width="28" align="center" /> The Holy Quran Recitation & Memorization
 Quran app for self-recitation practice, memorization support, and tafsir display, with API integration for audio and content delivery.  
 **Tech:** `Flutter`, `REST API`, `Android`  
-**GitHub:** [GitHub Profile](https://github.com/elBAKRIN)  
 **App Link:** [Google Play](https://play.google.com/store/apps/details?id=com.bakrin.recite_the_holy_quran)
 
 <p align="left">
@@ -117,10 +115,16 @@ Download my CV here: [Abdulrahman Bawazir CV (PDF)](./Abdulrahman-Bawazir-CV.pdf
 
 ---
 
+## 🕵️‍♂️ Profile
+
+**GitHub:** [GitHub Profile](https://github.com/elBAKRIN)  
+
+<!-- ---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elBAKRIN&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elBAKRIN&layout=compact&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elBAKRIN&layout=compact&theme=default&hide_border=true&count_private=true) -->
 
 ---
 
