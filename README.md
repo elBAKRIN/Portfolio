@@ -4,6 +4,8 @@
 
 Flutter developer with hands-on experience building and publishing real-world apps across finance, e-commerce, booking, and educational use cases. I focus on practical products, clean UI, store-ready delivery, and reliable integrations.
 
+🌐 Website: [www.bakrin.com](https://www.bakrin.com)
+
 ---
 
 ## 👨‍💻 About Me
@@ -45,13 +47,20 @@ I started as a web developer in 2016, working with `PHP`, `MySQL`, `Bootstrap`, 
 
 ## 🚀 Projects
 
-### 1. Muamalat
+### 1. <img src="https://play-lh.googleusercontent.com/6yZuIfYv3ocgjuEJb2bhZxaed3CIOoGMmLADFs6I3FgUW3YdXZYKbwOgZjnM7Nv3IlLCT3VghHqPFKTuJOisr9Y" alt="Muamalat App Icon" width="28" align="center" /> Muamalat
 Personal accounting app for managing expenses, debts, and recurring transactions with support for multiple wallets, currencies, and backup workflows.  
 **Tech:** `Flutter`, `sqflite`, `Android`  
 **GitHub:** [GitHub Profile](https://github.com/elBAKRIN)  
 **App Link:** [Google Play](https://play.google.com/store/apps/details?id=com.bakrin.muamalat.expenses.income.debts.muamalat)
 
-### 2. Orood
+<p align="left">
+  <img src="https://play-lh.googleusercontent.com/6kEsNxqDEn1ehZwmESa9dp0gD267Qeuts5lFMnpaxtTsS0j5YQcrj8lgQe-tCAu_Uw6zW2Tzcc-qTf4sWWHIdA" alt="Muamalat Screenshot 1" width="180" />
+  <img src="https://play-lh.googleusercontent.com/_1OU3GuqxRW8MGwGeJ3FkywWqt2bCGvrbdPVRfYV8udGo31Tc6Z11DM0uJurkcFzhRxoMhtmwm7Rd1oRKxijHg" alt="Muamalat Screenshot 2" width="180" />
+  <img src="https://play-lh.googleusercontent.com/TAO4HOiOeVahronMSPw5vSyxm6Xr_VZDatwaB3yA9Vnc5jyyrgPIX4Y62oJECOIYaODRTKhxbK1zYn__VLQ2bUY" alt="Muamalat Screenshot 3" width="180" />
+  <img src="https://play-lh.googleusercontent.com/a6Wb-C3RDGGE_j3P0JWQwvckbBZWEc1c00nK-OKWQlKx1czwjztEDZ_DvWXmn41DU6qreok5ZL69sHOUBFXNBQ" alt="Muamalat Screenshot 4" width="180" />
+</p>
+
+### 2. Eurud
 Offers comparison app that helps users compare store prices, build shopping lists, and browse product offers through connected APIs and authentication flows.  
 **Tech:** `Flutter`, `REST API`, `Android`, `iOS`  
 **GitHub:** [GitHub Profile](https://github.com/elBAKRIN)  
@@ -81,6 +90,7 @@ Download my CV here: [Abdulrahman Bawazir CV (PDF)](./Abdulrahman-Bawazir-CV.pdf
 
 - **Email:** `graphic.pixels7@gmail.com`
 - **Phone:** `739857879` / `775082906`
+- **Website:** [www.bakrin.com](https://www.bakrin.com)
 - **GitHub:** [github.com/elBAKRIN](https://github.com/elBAKRIN)
 - **Location:** Yemen
 
