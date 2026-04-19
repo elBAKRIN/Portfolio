@@ -1,4 +1,4 @@
-# Hi, I'm Bakrin 👋
+# Hi, I'm Abdulrahman Bakrin 👋
 
 ### Flutter Developer | Mobile App Builder | Clean UI Enthusiast
 
@@ -81,8 +81,8 @@ Download my CV here: [Bakrin CV (PDF)](./Bakrin-CV.pdf)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elBAKRIN&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elBAKRIN&layout=compact&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elBAKRIN&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elBAKRIN&layout=compact&theme=default&hide_border=true&count_private=true)
 
 ---
 
