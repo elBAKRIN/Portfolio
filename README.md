@@ -14,6 +14,12 @@ I started as a web developer in 2016, working with `PHP`, `MySQL`, `Bootstrap`, 
 
 ---
 
+## 🎓 Education
+
+- Self-taught developer with continuous practical learning through real client work, self-study, experimentation, and publishing production apps.
+
+---
+
 ## 🛠 Skills
 
 ### Mobile
@@ -96,6 +102,21 @@ Quran app for self-recitation practice, memorization support, and tafsir display
   <img src="https://play-lh.googleusercontent.com/14roRdEFjDlT3JysazE1T9eNbOxblPxRFdtssMkCP_mw_Jghsz8KcffbXa2dnXVOTzc" alt="Quran Screenshot 4" width="180" />
 </p>
 
+### Legacy Projects
+
+### 5. <img src="./assets/legacy/product-cost-logo.png" alt="Product Cost App Icon" width="28" align="center" /> Product Cost Calculator
+An older Android app built to calculate product cost using different unit types such as item count, liters, milliliters, kilograms, and grams, with invoice support and profit calculation.  
+**Tech:** `Android`, `Business Logic`, `UI Design`  
+**App Link:** [Google Play](https://play.google.com/store/apps/details?id=com.calculate.productcost)
+
+### 6. <img src="./assets/legacy/bearo-logo.png" alt="Bearo App Icon" width="28" align="center" /> Bearo English
+English learning app focused on reading, translated books, word tapping for instant meanings, and direct listening support. I handled the full app implementation along with logo and interface design.  
+**Tech:** `Android`, `Educational App`, `UI Design`
+
+### 7. <img src="./assets/legacy/platform-logo.png" alt="Platform App Icon" width="28" align="center" /> Platform App
+Marketplace-style Android app for displaying stores and home businesses, browsing products, creating a shopping cart, and sending orders directly to the store. The implementation included UI work and Firebase integration.  
+**Tech:** `Android`, `Firebase`, `E-commerce`, `UI Design`
+
 ---
 
 ## 📄 CV
@@ -110,7 +131,7 @@ Download my CV here: [Abdulrahman Bawazir CV (PDF)](./Abdulrahman-Bawazir-CV.pdf
 - **Phone:** `739857879` / `775082906`
 - **Website:** [www.bakrin.com](https://www.bakrin.com)
 - **GitHub:** [github.com/elBAKRIN](https://github.com/elBAKRIN)
-- **Location:** Yemen
+- **Location:** Yemen, Mukalla
 
 ---
 
