@@ -63,8 +63,7 @@ Personal accounting app for managing expenses, debts, and recurring transactions
 Offers comparison app that helps users compare store prices, build shopping lists, and browse product offers through connected APIs and authentication flows.  
 **Tech:** `Flutter`, `REST API`, `Android`, `iOS`  
 **GitHub:** [GitHub Profile](https://github.com/elBAKRIN)  
-**App Link:** [Google Play](https://play.google.com/store/apps/details?id=com.offer.eurud&hl=ar),   
-[App Store](https://apps.apple.com/sa/app/%D8%B9%D8%B1%D9%88%D8%B6-%D9%85%D9%82%D8%A7%D8%B1%D9%86%D8%A9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D9%88%D8%AA%D8%AE%D9%81%D9%8A%D8%B6%D8%A7%D8%AA/id6759877928)
+**App Link:** [Google Play](https://play.google.com/store/apps/details?id=com.offer.eurud&hl=ar),  [App Store](https://apps.apple.com/sa/app/%D8%B9%D8%B1%D9%88%D8%B6-%D9%85%D9%82%D8%A7%D8%B1%D9%86%D8%A9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D9%88%D8%AA%D8%AE%D9%81%D9%8A%D8%B6%D8%A7%D8%AA/id6759877928)
 
 <p align="left">
   <img src="https://play-lh.googleusercontent.com/NcGxPlaTH0gTOkwME1ymQM3vfsbmK7HO3giMgnMAkvlMmBu1L6dz5ffsy3gz_m794w" alt="Eurud Screenshot 1" width="180" />
