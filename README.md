@@ -1,4 +1,4 @@
-# Abdulrahman Salem Salem Bawazir 👋
+# Abdulrahman Bawazir 👋
 
 ### Flutter Developer | Former Web Developer | App Publisher
 
