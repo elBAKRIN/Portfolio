@@ -1,81 +1,88 @@
-# Hi, I'm Abdulrahman Bakrin 👋
+# Abdulrahman Salem Salem Bawazir 👋
 
-### Flutter Developer | Mobile App Builder | Clean UI Enthusiast
+### Flutter Developer | Former Web Developer | App Publisher
 
-I build modern, responsive, and maintainable applications with a focus on performance, usability, and clean architecture.
+Flutter developer with hands-on experience building and publishing real-world apps across finance, e-commerce, booking, and educational use cases. I focus on practical products, clean UI, store-ready delivery, and reliable integrations.
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a developer focused on crafting high-quality digital products, especially in mobile development with Flutter. I enjoy turning ideas into polished applications, writing scalable code, and building user experiences that are both practical and visually clean. My work typically centers on app architecture, state management, API integration, and shipping reliable cross-platform solutions.
+I started as a web developer in 2016, working with `PHP`, `MySQL`, `Bootstrap`, `jQuery`, and `Vue.js`, then transitioned into Flutter development in 2019. Since then, I have built and shipped multiple applications for `Android` and `iOS`, including finance tools, offers platforms, booking apps, and Quran learning apps. My work includes UI design, application development, store publishing, API integration, and day-to-day product iteration.
 
 ---
 
 ## 🛠 Skills
 
-### Languages & Frameworks
+### Mobile
 - `Flutter`
 - `Dart`
+- `Android`
+- `iOS`
+- `REST API`
 - `Firebase`
-- `REST APIs`
-- `PHP`
-- `Git & GitHub`
+- `sqflite`
+- `GetX`
+- `RevenueCat`
+- `AdMob`
 
-### Mobile Development
-- Cross-platform app development
-- State management
-- Responsive UI implementation
-- Local storage and offline support
-- Authentication flows
-- API integration
+### Web
+- `PHP`
+- `MySQL`
+- `Vue.js`
+- `jQuery`
+- `Bootstrap`
 
 ### Tools & Workflow
-- `VS Code`
+- `Git`
+- `GitHub`
+- `Google Play Console`
+- `App Store Connect`
 - `Android Studio`
-- `Postman`
-- `Figma`
-- `GitHub Actions`
+- `VS Code`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-> Replace the repository links below with your real project URLs if they differ.
+### 1. Muamalat
+Personal accounting app for managing expenses, debts, and recurring transactions with support for multiple wallets, currencies, and backup workflows.  
+**Tech:** `Flutter`, `sqflite`, `Android`  
+**GitHub:** [GitHub Profile](https://github.com/elBAKRIN)  
+**App Link:** [Google Play](https://play.google.com/store/apps/details?id=com.bakrin.muamalat.expenses.income.debts.muamalat)
 
-### 1. Portfolio
-Personal portfolio repository that presents my profile, skills, and featured work in a clean GitHub-ready format.  
-**Tech:** `Markdown`, `GitHub`  
-**GitHub:** [View Repository](https://github.com/elBAKRIN/Portfolio)
+### 2. Orood
+Offers comparison app that helps users compare store prices, build shopping lists, and browse product offers through connected APIs and authentication flows.  
+**Tech:** `Flutter`, `REST API`, `Android`, `iOS`  
+**GitHub:** [GitHub Profile](https://github.com/elBAKRIN)  
+**App Link:** [Google Play](https://play.google.com/store/apps/details?id=com.offer.eurud&hl=ar)
 
-### 2. Flutter App Project
-A modern Flutter application built with clean UI patterns, scalable structure, and production-oriented development practices.  
-**Tech:** `Flutter`, `Dart`, `REST API`, `Firebase`  
-**GitHub:** [Add Project Link](https://github.com/elBAKRIN)
+### 3. Hajzak
+Booking app for trips, rest houses, and events, focused on interface design and Flutter UI implementation.  
+**Tech:** `Flutter`, `Android`  
+**GitHub:** [GitHub Profile](https://github.com/elBAKRIN)  
+**App Link:** [Google Play](https://play.google.com/store/apps/details?id=com.supersend.hajzak)
 
-### 3. Admin or Dashboard Project
-A structured application focused on data display, user flows, and maintainable component architecture.  
-**Tech:** `Flutter`, `State Management`, `API Integration`  
-**GitHub:** [Add Project Link](https://github.com/elBAKRIN)
-
-### 4. Experimental or Client Project
-A project showcasing problem-solving, UI implementation, and practical development experience.  
-**Tech:** `Flutter`, `Firebase`, `Git`  
-**GitHub:** [Add Project Link](https://github.com/elBAKRIN)
+### 4. The Holy Quran Recitation & Memorization
+Quran app for self-recitation practice, memorization support, and tafsir display, with API integration for audio and content delivery.  
+**Tech:** `Flutter`, `REST API`, `Android`  
+**GitHub:** [GitHub Profile](https://github.com/elBAKRIN)  
+**App Link:** [Google Play](https://play.google.com/store/apps/details?id=com.bakrin.recite_the_holy_quran)
 
 ---
 
 ## 📄 CV
 
-Download my CV here: [Bakrin CV (PDF)](./Bakrin-CV.pdf)
+Download my CV here: [Abdulrahman Bawazir CV (PDF)](./Abdulrahman-Bawazir-CV.pdf)
 
 ---
 
 ## 📫 Contact
 
-- **Email:** `your-email@example.com`
+- **Email:** `graphic.pixels7@gmail.com`
+- **Phone:** `739857879` / `775082906`
 - **GitHub:** [github.com/elBAKRIN](https://github.com/elBAKRIN)
-- **LinkedIn:** [Add LinkedIn Profile](https://www.linkedin.com/)
+- **Location:** Yemen
 
 ---
 
