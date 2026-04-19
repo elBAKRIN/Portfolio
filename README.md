@@ -102,12 +102,24 @@ Quran app for self-recitation practice, memorization support, and tafsir display
   <img src="https://play-lh.googleusercontent.com/14roRdEFjDlT3JysazE1T9eNbOxblPxRFdtssMkCP_mw_Jghsz8KcffbXa2dnXVOTzc" alt="Quran Screenshot 4" width="180" />
 </p>
 
-### Legacy Projects
+### 5. <img src="https://play-lh.googleusercontent.com/O5XJLdINsZ804m-sEYt1qpoSRSAIWQR_SEsxckNZZg9wNB3rSHGyxQ_h15RBtEWk6Brl=w240-h480-rw" alt="Product Cost App Icon" width="28" align="center" /> Product Cost Calculator
+An older Android app built to calculate product cost using different unit types such as item count, liters, milliliters, kilograms, and grams, with invoice support and profit calculation.  
+**Tech:** `Flutter`, `REST API`, `Android`  
+**App Link:** [Google Play](https://play.google.com/store/apps/details?id=com.calculate.productcost)
 
+<p align="left">
+  <img src="https://play-lh.googleusercontent.com/NQnahSx5fX8eq145LhFZ-SyE7ODemxR57WH0z72N6Q6nXs1HMeymeyzjF8A-jTGReg=w526-h296-rw" alt="Product Screenshot 1" width="180" />
+  <img src="https://play-lh.googleusercontent.com/MhXjptBkhgCFPKohgqsDpx7xMHAiOc0rl0yls4zLHWuhSjjTvapcoz4Sk7GXJ1xyPclx=w526-h296-rw" alt="Product Screenshot 2" width="180" />
+  <img src="https://play-lh.googleusercontent.com/INtOl5b6E7LqtfQAF0eacFhBB-io4V7lVYnzXVDuj3QAoFlogTn34vt_sdULLw8KyA=w526-h296-rw" alt="Product Screenshot 3" width="180" />
+  <img src="https://play-lh.googleusercontent.com/RVepxRkKqxj4Vzq5inP5mZEMrRuw3_IvHQ0lHRlWYiRM9uZ98bZ5nGRilHcO48sXPKo=w526-h296-rw" alt="Product Screenshot 4" width="180" />
+</p>
+
+### Legacy Projects
+<!-- 
 ### 5. <img src="./assets/legacy/product-cost-logo.png" alt="Product Cost App Icon" width="28" align="center" /> Product Cost Calculator
 An older Android app built to calculate product cost using different unit types such as item count, liters, milliliters, kilograms, and grams, with invoice support and profit calculation.  
 **Tech:** `Android`, `Business Logic`, `UI Design`  
-**App Link:** [Google Play](https://play.google.com/store/apps/details?id=com.calculate.productcost)
+**App Link:** [Google Play](https://play.google.com/store/apps/details?id=com.calculate.productcost) -->
 
 ### 6. <img src="./assets/legacy/bearo-logo.png" alt="Bearo App Icon" width="28" align="center" /> Bearo English
 English learning app focused on reading, translated books, word tapping for instant meanings, and direct listening support. I handled the full app implementation along with logo and interface design.  
