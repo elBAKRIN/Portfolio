@@ -140,8 +140,8 @@ Download my CV here: [Abdulrahman Bawazir CV (PDF)](./Abdulrahman-Bawazir-CV.pdf
 ## 📫 Contact
 
 - **Email:** `graphic.pixels7@gmail.com`
-- **Phone:** `+967739857879` / `+967775082906` 
-[+967 775-082-906](tel:+967775082906)
+- **Phone:** `+967739857879` / `+967775082906`
+- **WhatsApp:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/967775082906) / [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/967739857879)
 - **Website:** [www.bakrin.com](https://www.bakrin.com)
 - **GitHub:** [github.com/elBAKRIN](https://github.com/elBAKRIN)
 - **Location:** Yemen, Mukalla
