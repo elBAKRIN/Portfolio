@@ -133,7 +133,7 @@ Marketplace-style Android app for displaying stores and home businesses, browsin
 
 ## 📄 CV
 
-Download my CV here: [Abdulrahman Bawazir CV (PDF)](./Abdulrahman-Bawazir-CV.pdf)
+Download my CV here: [Abdulrahman Bawazir CV (PDF)](./Abdulrahman-Bawazir-CV2.pdf)
 
 ---
 
@@ -141,7 +141,7 @@ Download my CV here: [Abdulrahman Bawazir CV (PDF)](./Abdulrahman-Bawazir-CV.pdf
 
 - **Email:** `graphic.pixels7@gmail.com`
 - **Phone:** `+967739857879` / `+967775082906`
-- **WhatsApp:** [![WhatsApp 73 YOU](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/967775082906) / [![WhatsApp 77 YM](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/967739857879)
+- **WhatsApp:** 1 [![WhatsApp 73 YOU](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/967775082906) / 2 [![WhatsApp 77 YM](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/967739857879)
 - **Website:** [www.bakrin.com](https://www.bakrin.com)
 - **GitHub:** [github.com/elBAKRIN](https://github.com/elBAKRIN)
 - **Location:** Yemen, Mukalla
