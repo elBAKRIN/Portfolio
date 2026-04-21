@@ -133,7 +133,7 @@ Marketplace-style Android app for displaying stores and home businesses, browsin
 
 ## 📄 CV
 
-Download my CV here: [Abdulrahman Bawazir CV (PDF)](./Abdulrahman-Bawazir-CV2.pdf)
+Download my CV here: [Abdulrahman Bawazir CV (PDF)](./Abdulrahman-Bawazir-CV3.pdf)
 
 ---
 
